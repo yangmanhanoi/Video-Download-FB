@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/PC/.gradle/caches/transforms-2/files-2.1/13ab803ce315259fc426cdd0c906445f/appcompat-1.4.1/res/layout/abc_action_bar_title_item.xml" value="0.1" />
+        <entry key="..\:/Users/PC/Desktop/Android Project/Video download for FB/app/src/main/res/drawable/bg_core.xml" value="0.1" />
+        <entry key="..\:/Users/PC/Desktop/Android Project/Video download for FB/app/src/main/res/drawable/bg_white.xml" value="0.1" />
+        <entry key="..\:/Users/PC/Desktop/Android Project/Video download for FB/app/src/main/res/drawable/bottom_navigation_selector.xml" value="0.1" />
+        <entry key="..\:/Users/PC/Desktop/Android Project/Video download for FB/app/src/main/res/drawable/custom_detail_history_layout.xml" value="0.1" />
+        <entry key="..\:/Users/PC/Desktop/Android Project/Video download for FB/app/src/main/res/drawable/customer_progressbar.xml" value="0.1" />
+        <entry key="..\:/Users/PC/Desktop/Android Project/Video download for FB/app/src/main/res/drawable/ic_2.xml" value="0.1" />
+        <entry key="..\:/Users/PC/Desktop/Android Project/Video download for FB/app/src/main/res/drawable/ic_about_app.xml" value="0.1" />
+        <entry key="..\:/Users/PC/Desktop/Android Project/Video download for FB/app/src/main/res/drawable/ic_arrow_top.xml" value="0.1" />
+        <entry key="..\:/Users/PC/Desktop/Android Project/Video download for FB/app/src/main/res/drawable/ic_back.xml" value="0.1" />
+        <entry key="..\:/Users/PC/Desktop/Android Project/Video download for FB/app/src/main/res/drawable/ic_background_home.xml" value="0.1" />
+        <entry key="..\:/Users/PC/Desktop/Android Project/Video download for FB/app/src/main/res/drawable/ic_bg_download_success.xml" value="0.1" />
+        <entry key="..\:/Users/PC/Desktop/Android Project/Video download for FB/app/src/main/res/drawable/ic_checklink.xml" value="0.1" />
+        <entry key="..\:/Users/PC/Desktop/Android Project/Video download for FB/app/src/main/res/drawable/ic_coppy.xml" value="0.1" />
+        <entry key="..\:/Users/PC/Desktop/Android Project/Video download for FB/app/src/main/res/drawable/ic_download.xml" value="0.1" />
+        <entry key="..\:/Users/PC/Desktop/Android Project/Video download for FB/app/src/main/res/drawable/ic_history.xml" value="0.1" />
+        <entry key="..\:/Users/PC/Desktop/Android Project/Video download for FB/app/src/main/res/drawable/ic_home.xml" value="0.1" />
+        <entry key="..\:/Users/PC/Desktop/Android Project/Video download for FB/app/src/main/res/drawable/ic_language.xml" value="0.1" />
+        <entry key="..\:/Users/PC/Desktop/Android Project/Video download for FB/app/src/main/res/drawable/ic_next.xml" value="0.1" />
+        <entry key="..\:/Users/PC/Desktop/Android Project/Video download for FB/app/src/main/res/drawable/ic_page1_1.xml" value="0.1" />
+        <entry key="..\:/Users/PC/Desktop/Android Project/Video download for FB/app/src/main/res/drawable/ic_paste.xml" value="0.1" />
+        <entry key="..\:/Users/PC/Desktop/Android Project/Video download for FB/app/src/main/res/drawable/ic_privacy.xml" value="0.1" />
+        <entry key="..\:/Users/PC/Desktop/Android Project/Video download for FB/app/src/main/res/drawable/ic_rectangle_18985.xml" value="0.1" />
+        <entry key="..\:/Users/PC/Desktop/Android Project/Video download for FB/app/src/main/res/drawable/ic_rectangle_18986.xml" value="0.1" />
+        <entry key="..\:/Users/PC/Desktop/Android Project/Video download for FB/app/src/main/res/drawable/ic_rectangle_18986__0.xml" value="0.1" />
+        <entry key="..\:/Users/PC/Desktop/Android Project/Video download for FB/app/src/main/res/drawable/ic_rectangle_19140.xml" value="0.1" />
+        <entry key="..\:/Users/PC/Desktop/Android Project/Video download for FB/app/src/main/res/drawable/ic_rectangle_19225.xml" value="0.1" />
+        <entry key="..\:/Users/PC/Desktop/Android Project/Video download for FB/app/src/main/res/drawable/ic_search_view.xml" value="0.1" />
+        <entry key="..\:/Users/PC/Desktop/Android Project/Video download for FB/app/src/main/res/drawable/ic_setting.xml" value="0.1" />
+        <entry key="..\:/Users/PC/Desktop/Android Project/Video download for FB/app/src/main/res/drawable/image_sort.xml" value="0.1" />
+        <entry key="..\:/Users/PC/Desktop/Android Project/Video download for FB/app/src/main/res/layout/abc_action_mode_bar.xml" value="0.1" />
+        <entry key="..\:/Users/PC/Desktop/Android Project/Video download for FB/app/src/main/res/layout/activity_detail_history.xml" value="0.213768115942029" />
+        <entry key="..\:/Users/PC/Desktop/Android Project/Video download for FB/app/src/main/res/layout/activity_detail_history2.xml" value="0.1" />
+        <entry key="..\:/Users/PC/Desktop/Android Project/Video download for FB/app/src/main/res/layout/activity_history.xml" value="0.213768115942029" />
+        <entry key="..\:/Users/PC/Desktop/Android Project/Video download for FB/app/src/main/res/layout/activity_main.xml" value="0.14666666666666667" />
+        <entry key="..\:/Users/PC/Desktop/Android Project/Video download for FB/app/src/main/res/layout/activity_networking_demo.xml" value="0.213768115942029" />
+        <entry key="..\:/Users/PC/Desktop/Android Project/Video download for FB/app/src/main/res/layout/activity_on_board.xml" value="0.213768115942029" />
+        <entry key="..\:/Users/PC/Desktop/Android Project/Video download for FB/app/src/main/res/layout/activity_setting.xml" value="0.213768115942029" />
+        <entry key="..\:/Users/PC/Desktop/Android Project/Video download for FB/app/src/main/res/layout/activity_splash.xml" value="0.213768115942029" />
+        <entry key="..\:/Users/PC/Desktop/Android Project/Video download for FB/app/src/main/res/layout/bg_core.xml" value="0.213768115942029" />
+        <entry key="..\:/Users/PC/Desktop/Android Project/Video download for FB/app/src/main/res/layout/browser_content.xml" value="0.213768115942029" />
+        <entry key="..\:/Users/PC/Desktop/Android Project/Video download for FB/app/src/main/res/layout/content_detail_history.xml" value="0.134375" />
+        <entry key="..\:/Users/PC/Desktop/Android Project/Video download for FB/app/src/main/res/layout/custom_detail_2.xml" value="0.22" />
+        <entry key="..\:/Users/PC/Desktop/Android Project/Video download for FB/app/src/main/res/layout/custom_layout_history.xml" value="0.1393110435663627" />
+        <entry key="..\:/Users/PC/Desktop/Android Project/Video download for FB/app/src/main/res/layout/custom_listview.xml" value="0.1" />
+        <entry key="..\:/Users/PC/Desktop/Android Project/Video download for FB/app/src/main/res/layout/fragment_abount_app.xml" value="0.213768115942029" />
+        <entry key="..\:/Users/PC/Desktop/Android Project/Video download for FB/app/src/main/res/layout/fragment_change_language.xml" value="0.213768115942029" />
+        <entry key="..\:/Users/PC/Desktop/Android Project/Video download for FB/app/src/main/res/layout/fragment_detail_history.xml" value="0.213768115942029" />
+        <entry key="..\:/Users/PC/Desktop/Android Project/Video download for FB/app/src/main/res/layout/fragment_detail_history2.xml" value="0.213768115942029" />
+        <entry key="..\:/Users/PC/Desktop/Android Project/Video download for FB/app/src/main/res/layout/fragment_download.xml" value="0.213768115942029" />
+        <entry key="..\:/Users/PC/Desktop/Android Project/Video download for FB/app/src/main/res/layout/fragment_first.xml" value="0.2864583333333333" />
+        <entry key="..\:/Users/PC/Desktop/Android Project/Video download for FB/app/src/main/res/layout/fragment_history.xml" value="0.1038961038961039" />
+        <entry key="..\:/Users/PC/Desktop/Android Project/Video download for FB/app/src/main/res/layout/fragment_home.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/PC/Desktop/Android Project/Video download for FB/app/src/main/res/layout/fragment_language.xml" value="0.213768115942029" />
+        <entry key="..\:/Users/PC/Desktop/Android Project/Video download for FB/app/src/main/res/layout/fragment_onboard.xml" value="0.213768115942029" />
+        <entry key="..\:/Users/PC/Desktop/Android Project/Video download for FB/app/src/main/res/layout/fragment_page_onboard.xml" value="0.213768115942029" />
+        <entry key="..\:/Users/PC/Desktop/Android Project/Video download for FB/app/src/main/res/layout/fragment_privacy.xml" value="0.213768115942029" />
+        <entry key="..\:/Users/PC/Desktop/Android Project/Video download for FB/app/src/main/res/layout/fragment_second.xml" value="0.2864583333333333" />
+        <entry key="..\:/Users/PC/Desktop/Android Project/Video download for FB/app/src/main/res/layout/fragment_setting.xml" value="0.213768115942029" />
+        <entry key="..\:/Users/PC/Desktop/Android Project/Video download for FB/app/src/main/res/layout/json_example.xml" value="0.1" />
+        <entry key="..\:/Users/PC/Desktop/Android Project/Video download for FB/app/src/main/res/layout/layout_checlink_result.xml" value="0.213768115942029" />
+        <entry key="..\:/Users/PC/Desktop/Android Project/Video download for FB/app/src/main/res/layout/loading_ads_layout.xml" value="0.213768115942029" />
+        <entry key="..\:/Users/PC/Desktop/Android Project/Video download for FB/app/src/main/res/layout/not_main_toolbar.xml" value="0.213768115942029" />
+        <entry key="..\:/Users/PC/Desktop/Android Project/Video download for FB/app/src/main/res/layout/search_interface.xml" value="0.1" />
+        <entry key="..\:/Users/PC/Desktop/Android Project/Video download for FB/app/src/main/res/layout/temp_layout.xml" value="0.13703703703703704" />
+        <entry key="..\:/Users/PC/Desktop/Android Project/Video download for FB/app/src/main/res/layout/toolbar.xml" value="0.1" />
+        <entry key="..\:/Users/PC/Desktop/Android Project/Video download for FB/app/src/main/res/layout/toolbar_detail_history.xml" value="0.213768115942029" />
+        <entry key="..\:/Users/PC/Desktop/Android Project/Video download for FB/app/src/main/res/layout/toolbar_file_manager.xml" value="0.213768115942029" />
+        <entry key="..\:/Users/PC/Desktop/Android Project/Video download for FB/app/src/main/res/menu/menu_navigation.xml" value="0.2864583333333333" />
+        <entry key="..\:/Users/PC/Desktop/Android Project/Video download for FB/app/src/main/res/menu/nav_menu.xml" value="0.28541666666666665" />
+        <entry key="..\:/Users/PC/OneDrive/Desktop/Android Project/Video download for FB/app/src/main/res/drawable/bottom_navigation_selector.xml" value="0.1545" />
+        <entry key="..\:/Users/PC/OneDrive/Desktop/Android Project/Video download for FB/app/src/main/res/layout/loading_ads_layout.xml" value="0.26313405797101447" />
+        <entry key="..\:/Users/PC/OneDrive/Desktop/Android Project/Video download for FB/app/src/main/res/layout/temp_layout.xml" value="0.26313405797101447" />
+        <entry key="..\:/Users/PC/OneDrive/Desktop/Android Project/Video download for FB/app/src/main/res/menu/nav_menu.xml" value="0.2864583333333333" />
+        <entry key="app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.132" />
+        <entry key="app/src/main/res/drawable/ic_action_collapse.xml" value="0.132" />
+        <entry key="app/src/main/res/drawable/ic_action_delete.xml" value="0.132" />
+        <entry key="app/src/main/res/drawable/ic_action_expand.xml" value="0.132" />
+        <entry key="app/src/main/res/drawable/ic_file_download_black_24dp.xml" value="0.132" />
+        <entry key="app/src/main/res/drawable/ic_filter_none_black_24dp.xml" value="0.132" />
+        <entry key="app/src/main/res/drawable/ic_folder.xml" value="0.132" />
+        <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.132" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.129981884057971" />
+        <entry key="app/src/main/res/layout/browser_content.xml" value="0.129981884057971" />
+        <entry key="app/src/main/res/layout/search_interface.xml" value="0.129981884057971" />
+        <entry key="app/src/main/res/layout/toolbar.xml" value="0.129981884057971" />
+        <entry key="app/src/main/res/menu/menu_navigation.xml" value="0.20416666666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
